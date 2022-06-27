@@ -1,1 +1,1 @@
-This is the final project for the Haskell Programming course on EMURGO.
+This is the final project for the Haskell Programming course on EMURGO: Brick Breaker Game
